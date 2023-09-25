@@ -1,4 +1,4 @@
-# Lab5_PlataformasMoviles
+# Lab6_PlataformasMoviles
 Para ejecutar el programa, se recomienda utilizar el telefono pixel 3
 
 Link a videos:
